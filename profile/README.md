@@ -1,5 +1,4 @@
-# Rozei LTD
-*Building minimal, elegant, and modern software.*
+Building minimal, elegant, and modern software.
 > "If it doesn’t exist, we create it." – Rozei LTD
 
 ## What We Do 
